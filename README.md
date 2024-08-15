@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# hotel_system
 Contact Me: 0716933897 or batasisolomon029@gmail.com
 Web: https://batasi.000webhostapp.com
@@ -17,3 +18,7 @@ after importing the file, open a new tab in your browser and type http://localho
 it should display the website, click on it and then admin to get to admin panel
 open another new tab in your browser and type http://localhost/admin/
 
+=======
+# Hotel-Reservation-system
+A web-based, centralized hotel booking system that alllows guests to make reservations for rooms, amenities and services.Includes a backend system visible to staff and admins to manage their operations.Intergrated with Daraja API for seamless payments. 
+>>>>>>> 97121a190d16f57fff623357fa59fc5ee38c0c83
